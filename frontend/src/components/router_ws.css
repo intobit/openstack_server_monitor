@@ -1,0 +1,40 @@
+.accordion-top-router {
+    border-radius: 10px;
+    border: 4px solid #4c9191;
+    margin: 20px;
+    min-width: 700px;
+    display: inline-table;
+    justify-content: space-evenly;
+}
+
+.text-span {
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.status-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.pseudo-h1 {
+    font-family: monospace;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.port-name {
+    display: inline-block;
+    margin: 0.2rem;
+    font-family: monospace;
+}
+
+.active-status {
+    padding-left: 2rem;
+}
+
+.time-span {
+    margin-left: 30px;
+}

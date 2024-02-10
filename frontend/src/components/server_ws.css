@@ -1,0 +1,29 @@
+.accordion-top-server {
+    border-radius: 10px;
+    border: 4px solid #899fa1;
+    margin: 20px;
+    min-width: 1050px;
+    display: inline-table;
+    justify-content: space-evenly;
+}
+
+.text-span-server {
+    padding-left: 20px;
+}
+
+.status-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.pseudo-h1 {
+    font-family: monospace;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.time-span {
+    margin-right: 40px;
+}
