@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Add your credentials for openstack api in `credentialsdata.py`
 
 ```
-cd ../backend/authentication/
+cd ./backend/authentication/
 
 class CredentialData(Enum):
     ID = ""
