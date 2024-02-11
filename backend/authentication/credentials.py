@@ -1,5 +1,3 @@
-
-
 class Credentials:
     def __init__(self, set_id: str, name: str, secret: str, json: dict):
         self._id = set_id
