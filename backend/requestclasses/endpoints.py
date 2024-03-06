@@ -1,6 +1,6 @@
 from enum import Enum
 
-
+# Add endpoint urls
 class EndPoints(Enum):
     IDENTITY = ""
     TOKEN_URL = "/auth/tokens"
